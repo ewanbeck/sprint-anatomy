@@ -1,0 +1,39 @@
+{
+  "Week1": {
+    "Monday": {
+      "tasks": [0, 2, 3, 4, 5],
+      "extraTasks": [18]
+    },
+    "Tuesday": {
+      "tasks": [1, 2, 3, 4]
+    },
+    "Wednesday": {
+      "tasks": [1, 2, 3, 4, 6]
+    },
+    "Thursday": {
+      "tasks": [1, 2, 3, 4, 7]
+    },
+    "Friday": {
+      "tasks": [1, 2, 3, 4, 8, 9, 10, 11],
+      "extraTasks": [19]
+    }
+  },
+  "Week2": {
+    "Monday": {
+      "tasks": [1, 2, 3, 4, 5]
+    },
+    "Tuesday": {
+      "tasks": [1, 2, 3, 4, 12]
+    },
+    "Wednesday": {
+      "tasks": [1, 2, 3, 4, 6]
+    },
+    "Thursday": {
+      "tasks": [1, 2, 3, 4, 13, 14, 15]
+    },
+    "Friday": {
+      "tasks": [1, 2, 8, 9, 10, 16, 17, 11],
+      "extraTasks": [20, 19]
+    }
+  }
+}
