@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     ViteFaviconsPlugin({logo: "src/assets/sprint_anatomy_favicon.svg"}),
   ],
+  base: '/sprint-anatomy/'
 });
