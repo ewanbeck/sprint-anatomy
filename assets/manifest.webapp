@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "name": null,
-  "description": null,
+  "name": "Anatomy of a sprint",
+  "description": "A tiny react UI demo showing how a 2 week development sprint might look.",
   "icons": {
     "60": "/sprint-anatomy/assets/firefox_app_60x60.png",
     "128": "/sprint-anatomy/assets/firefox_app_128x128.png",
     "512": "/sprint-anatomy/assets/firefox_app_512x512.png"
   },
   "developer": {
-    "name": null,
-    "url": null
+    "name": "Ewan Beckett",
+    "url": "https://github.com/ewanbeck"
   }
 }

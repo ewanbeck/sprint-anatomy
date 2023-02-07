@@ -1,7 +1,7 @@
 {
-  "name": null,
-  "short_name": null,
-  "description": null,
+  "name": "Anatomy of a sprint",
+  "short_name": "Sprint Anatomy",
+  "description": "A tiny react UI demo showing how a 2 week development sprint might look.",
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
